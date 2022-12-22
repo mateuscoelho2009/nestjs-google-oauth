@@ -23,7 +23,7 @@
     "@nestjs/core": "^6.0.0",
     "@nestjs/passport": "^6.1.0",
     "@nestjs/platform-express": "^6.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "passport": "^0.4.0",
     "passport-google-oauth20": "^2.0.0",
     "passport-jwt": "^4.0.0",
